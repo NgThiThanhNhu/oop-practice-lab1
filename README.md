@@ -48,11 +48,11 @@ Mục tiêu của bài thực hành là giúp hiểu và áp dụng các khái n
 
 ### **Câu 1.10 – Kiểm tra số phần tử vector**
 - Cộng hai vector chỉ khi có cùng kích thước.
-**Video bài làm:** [Xem tại đây](https://www.tiktok.com/@likenguyen214/video/7569272709792763154?is_from_webapp=1&amp;sender_device=pc&amp;web_id=7514754381141542418)
+- **Video bài làm:** [Xem tại đây](https://www.tiktok.com/@likenguyen214/video/7569272709792763154?is_from_webapp=1&amp;sender_device=pc&amp;web_id=7514754381141542418)
 
 ### **Câu 1.11 – Phân số rút gọn**
 - Sử dụng hàm bạn để tính ước chung lớn nhất (UCLN).
-**Video bài làm:** [Xem tại đây](https://www.tiktok.com/@likenguyen214/video/7569274754935360775?is_from_webapp=1&amp;sender_device=pc&amp;web_id=7514754381141542418)
+- **Video bài làm:** [Xem tại đây](https://www.tiktok.com/@likenguyen214/video/7569274754935360775?is_from_webapp=1&amp;sender_device=pc&amp;web_id=7514754381141542418)
 
 ### **Câu 1.12 – MyTime**
 - So sánh thời gian lớn nhất, nhỏ nhất bằng toán tử `>=`.
@@ -65,7 +65,7 @@ Mục tiêu của bài thực hành là giúp hiểu và áp dụng các khái n
 
 ### **Câu 1.14 – MyDate (So sánh bằng `==`)**
 - Tìm kiếm ngày cụ thể trong mảng.
-**Video bài làm:** [Xem tại đây](https://www.tiktok.com/@likenguyen214/video/7569170165481377080?is_from_webapp=1&amp;sender_device=pc&amp;web_id=7514754381141542418)
+- **Video bài làm:** [Xem tại đây](https://www.tiktok.com/@likenguyen214/video/7569170165481377080?is_from_webapp=1&amp;sender_device=pc&amp;web_id=7514754381141542418)
 
 ### **Câu 1.15 – Vector (Cộng hai vector)**
 - Nạp chồng toán tử `+` và hiển thị kết quả.
