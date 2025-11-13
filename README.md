@@ -18,7 +18,7 @@ Mục tiêu của bài thực hành là giúp hiểu và áp dụng các khái n
 ### **Câu 1.3 – MyDate**
 - So sánh hai ngày tháng bằng toán tử `>=`.
 - Tìm ngày lớn nhất trong mảng 5 đối tượng `MyDate`.
-**Video bài làm:** [Xem tại đây](https://www.tiktok.com/@likenguyen214/video/7568932250360810808?is_from_webapp=1&amp;sender_device=pc&amp;web_id=7514754381141542418)
+#### **Video bài làm:** [Xem tại đây](https://www.tiktok.com/@likenguyen214/video/7568932250360810808?is_from_webapp=1&amp;sender_device=pc&amp;web_id=7514754381141542418)
 
 ### **Câu 1.4 – Vector**
 - Cộng hai vector bằng toán tử `+` (friend function).
