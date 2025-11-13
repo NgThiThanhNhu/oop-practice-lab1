@@ -80,7 +80,7 @@ Mục tiêu của bài thực hành là giúp hiểu và áp dụng các khái n
 ## **Công nghệ sử dụng**
 - Ngôn ngữ: **C++**
 - IDE: **Dev-C++**
-- Chuẩn C++: C++11 trở lên
+- Chuẩn C++: `C++11` trở lên
 
 ## **Mục tiêu học tập**
 - Hiểu rõ cách tổ chức chương trình theo hướng đối tượng.
